@@ -1,0 +1,15 @@
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\netstandard2.0\Ejercicio1.deps.json
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\netstandard2.0\Ejercicio1.dll
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\netstandard2.0\ref\Ejercicio1.dll
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\bin\Debug\netstandard2.0\Ejercicio1.pdb
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Resultados.xaml.g.cs
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.dll
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\ref\Ejercicio1.dll
+C:\Users\SelvinM95\source\repos\Ejercicio1\Ejercicio1\Ejercicio1\obj\Debug\netstandard2.0\Ejercicio1.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1.MainPage">
+
+    <StackLayout>
+
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Calculadora" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+
+        <Entry x:Name="num1"  Keyboard="Numeric" Placeholder="Ingresa un Número" Margin="24,10"/>
+        <Entry x:Name="num2" Keyboard="Numeric" Placeholder="Ingresa otro Número" Margin="24,0"/>
+
+        <Label Text="Menú de Opciones" HorizontalTextAlignment="Center" FontSize="20" Padding="30,10,30,0"/>
+
+        <Button x:Name="Sum" Text="Suma" BackgroundColor="#2196F3" TextColor="White" Margin="24,10" Clicked="Sum_Clicked"/>
+        <Button x:Name="Rest" Text="Resta" BackgroundColor="#2196F3" TextColor="White" Margin="24,10" Clicked="Rest_Clicked" />
+        <Button x:Name="Multiplic" Text="Multiplicación" BackgroundColor="#2196F3" TextColor="White" Margin="24,10"  Clicked="Multiplic_Clicked"/>
+        <Button x:Name="Divid" Text="División" BackgroundColor="#2196F3" TextColor="White" Margin="24,10" Clicked="Divid_Clicked"/>
+
+    </StackLayout>
+
+</ContentPage>
